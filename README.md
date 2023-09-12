@@ -54,7 +54,7 @@ pip install git+https://github.com/carsales/pyheif.git
 ```
 ## Contributon
 
-```
+
 The saved json file has information on how blurry an image is, the higher the value, the less blurry the image.
 
 ```json
