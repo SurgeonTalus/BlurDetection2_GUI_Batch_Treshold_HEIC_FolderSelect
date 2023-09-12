@@ -3,10 +3,10 @@ Blur Detection works using the total variance of the laplacian of an
 image, this provides a quick and accurate method for scoring how blurry
 an image is.
 
-![Image Blur Detection](BlurDetection2_GUI.png)
-
 This Python script provides a user-friendly GUI (Graphical User Interface) for detecting blurry images in a selected folder. It leverages the power of the OpenCV library for image processing and offers several features to make the image blur detection process more convenient and efficient.
+
 # Image Blur Detection Tool with GUI
+![Image Blur Detection](BlurDetection2_GUI.png)
 ## Features
 
 - **GUI Interface:** The tool offers a graphical interface for selecting a folder containing images and setting the blur detection threshold.
